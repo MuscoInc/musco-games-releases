@@ -1,0 +1,6 @@
+# App files go on GitHub Releases as assets, never in the repository.
+*.apk
+*.apks
+*.aab
+*.zip
+.DS_Store
